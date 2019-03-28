@@ -1,0 +1,6 @@
+[20-Jul-2016 20:20:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/priyanshriv50/public_html/snippy.in/application/models/loginmodel.php on line 11
+[20-Jul-2016 20:30:49 UTC] PHP Parse error:  syntax error, unexpected '`' in /home/priyanshriv50/public_html/snippy.in/application/models/loginmodel.php on line 9
+[21-Jul-2016 19:13:48 UTC] PHP Fatal error:  Class 'Loginmodel' not found in /home/priyanshriv50/public_html/snippy.in/system/core/Loader.php on line 304
+[21-Jul-2016 19:15:17 UTC] PHP Fatal error:  Class 'Loginmodel' not found in /home/priyanshriv50/public_html/snippy.in/system/core/Loader.php on line 304
+[21-Jul-2016 19:15:27 UTC] PHP Fatal error:  Class 'Loginmodel' not found in /home/priyanshriv50/public_html/snippy.in/system/core/Loader.php on line 304
+[21-Jul-2016 19:15:58 UTC] PHP Fatal error:  Class 'Loginmodel' not found in /home/priyanshriv50/public_html/snippy.in/system/core/Loader.php on line 304
